@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_testcase_003_testsuite,Chrome 121.0.0.0,,,07-02-2024 18:59:34,07-02-2024 19:00:12,37.825s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcase_003,Chrome 121.0.0.0,,,07-02-2024 18:59:35,07-02-2024 19:00:12,37.752s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 18:59:35,07-02-2024 18:59:37,2.044s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 18:59:37,07-02-2024 18:59:39,2.362s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,07-02-2024 18:59:39,07-02-2024 18:59:40,0.639s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,07-02-2024 18:59:40,07-02-2024 18:59:41,0.865s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_003_OR/span_Hello, sign in""))",Chrome 121.0.0.0,,,07-02-2024 18:59:41,07-02-2024 18:59:54,13.045s,PASSED
+"setText(findTestObject(""Amazon_testcase_003_button_OR/input_Email or mobile phone number_email""), ""9553847074"")",Chrome 121.0.0.0,,,07-02-2024 18:59:54,07-02-2024 18:59:55,1.767s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_003_OR/inputcontinue""))",Chrome 121.0.0.0,,,07-02-2024 18:59:55,07-02-2024 18:59:56,1.051s,PASSED
+"setEncryptedText(findTestObject(""Amazon_testcase_003_button_OR/input_Forgot your password_password""), ""sWIDqSuYDTb6OdfrXQbw6w=="")",Chrome 121.0.0.0,,,07-02-2024 18:59:56,07-02-2024 18:59:57,1.043s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_003_OR/inputsignInSubmit""))",Chrome 121.0.0.0,,,07-02-2024 18:59:57,07-02-2024 18:59:58,0.271s,PASSED
+"selectOptionByValue(findTestObject(""Amazon_testcase_003_button_OR/select_All Departments""), ""search-alias=stripbooks"", true)",Chrome 121.0.0.0,,,07-02-2024 18:59:58,07-02-2024 19:00:01,3.561s,PASSED
+"setText(findTestObject(""Amazon_testcase_003_button_OR/input_Search Amazon_field-keywords""), ""da vinci code"")",Chrome 121.0.0.0,,,07-02-2024 19:00:01,07-02-2024 19:00:03,1.482s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_003_OR/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,07-02-2024 19:00:03,07-02-2024 19:00:05,2.592s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_003_OR/span_The Da Vinci Code (Abridged Edition) P_4896eb""))",Chrome 121.0.0.0,,,07-02-2024 19:00:05,07-02-2024 19:00:06,1.067s,PASSED
+"switchToWindowTitle(""The Da Vinci Code (Abridged Edition) [Paperback] Brown, Dan : BROWN DAN: Amazon.in: Books"")",Chrome 121.0.0.0,,,07-02-2024 19:00:06,07-02-2024 19:00:10,3.465s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_003_OR/input_submit.add-to-cart""))",Chrome 121.0.0.0,,,07-02-2024 19:00:10,07-02-2024 19:00:12,2.271s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,07-02-2024 19:00:12,07-02-2024 19:00:12,0.171s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 19:00:12,07-02-2024 19:00:12,0.002s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 19:00:12,07-02-2024 19:00:12,0.002s,PASSED

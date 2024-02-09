@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_testcase_001_testsuite,Chrome 121.0.0.0,,,06-02-2024 22:20:02,06-02-2024 22:20:09,7.359s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcase_001,Chrome 121.0.0.0,,,06-02-2024 22:20:02,06-02-2024 22:20:09,7.298s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,06-02-2024 22:20:02,06-02-2024 22:20:03,1.166s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,06-02-2024 22:20:03,06-02-2024 22:20:04,1.616s,PASSED
+"selectOptionByValue(findTestObject(""Amazon_testcase_001_button_OR/select_All Departments""), ""search-alias=stripbooks"", true)",Chrome 121.0.0.0,,,06-02-2024 22:20:04,06-02-2024 22:20:06,1.328s,PASSED
+"setText(findTestObject(""Amazon_testcase_001_button_OR/input_Search""), inputSearch)",Chrome 121.0.0.0,,,06-02-2024 22:20:06,06-02-2024 22:20:07,0.928s,PASSED
+"click(findTestObject(""Amazon_testcase_001_button_OR/input_Search Amazon_nav-search-submit-button""))",Chrome 121.0.0.0,,,06-02-2024 22:20:07,06-02-2024 22:20:09,2.065s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,06-02-2024 22:20:09,06-02-2024 22:20:09,0.101s,PASSED

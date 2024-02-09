@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Amazon_testcase_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29749b3f-86f6-42be-9d0f-48f20c09d00c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b9e696c0-9f3b-4a47-b837-75a0d34926f1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>951dc018-b035-4fc9-8b8f-fb107ac94f1d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'9553847074'</defaultValue>
+      <description></description>
+      <id>b9e696c0-9f3b-4a47-b837-75a0d34926f1</id>
+      <masked>false</masked>
+      <name>PhoneNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'500056\n'</defaultValue>
+      <description></description>
+      <id>951dc018-b035-4fc9-8b8f-fb107ac94f1d</id>
+      <masked>false</masked>
+      <name>PinCode</name>
+   </variable>
+</TestCaseEntity>

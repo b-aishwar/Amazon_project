@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_testcase_005_testlisteners,Chrome 121.0.0.0,,,07-02-2024 20:50:03,07-02-2024 20:51:19,1m - 16.413s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcase_005,Chrome 121.0.0.0,,,07-02-2024 20:50:50,07-02-2024 20:51:19,29.406s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 20:50:50,07-02-2024 20:50:51,1.346s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 20:50:51,07-02-2024 20:50:53,1.526s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 20:50:53,07-02-2024 20:50:54,1.346s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 20:50:54,07-02-2024 20:50:56,2.137s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 20:50:56,07-02-2024 20:50:58,1.373s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,07-02-2024 20:50:58,07-02-2024 20:50:58,0.604s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,07-02-2024 20:50:58,07-02-2024 20:51:00,1.607s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_005_OR/span_Hello, sign in""))",Chrome 121.0.0.0,,,07-02-2024 20:51:00,07-02-2024 20:51:01,1.353s,PASSED
+"setText(findTestObject(""Amazon_testcase_005_button_OR/input_Email or mobile phone number_email""), PhoneNo)",Chrome 121.0.0.0,,,07-02-2024 20:51:01,07-02-2024 20:51:03,1.779s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_005_OR/inputcontinue""))",Chrome 121.0.0.0,,,07-02-2024 20:51:03,07-02-2024 20:51:04,1.054s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_testcase_005_OR/input_password""), ""sWIDqSuYDTb6OdfrXQbw6w=="")",Chrome 121.0.0.0,,,07-02-2024 20:51:04,07-02-2024 20:51:05,1.047s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_005_OR/inputsignInSubmit""))",Chrome 121.0.0.0,,,07-02-2024 20:51:05,07-02-2024 20:51:05,0.274s,PASSED
+"selectOptionByValue(findTestObject(""Amazon_testcase_005_button_OR/select_All Departments""), ""search-alias=stripbooks"", true)",Chrome 121.0.0.0,,,07-02-2024 20:51:05,07-02-2024 20:51:12,6.269s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_testcase_005_OR/input_field-keywords (1)""), inputSearch)",Chrome 121.0.0.0,,,07-02-2024 20:51:12,07-02-2024 20:51:16,4.018s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_005_OR/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,07-02-2024 20:51:16,07-02-2024 20:51:18,2.265s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_005_OR/span_The Da Vinci Code (Abridged Edition) P_4896eb""))",Chrome 121.0.0.0,,,07-02-2024 20:51:18,07-02-2024 20:51:19,1.052s,PASSED
+"verifyCheckpoint(findCheckpoint(""Checkpoints/Amazon_testcase_005_CP""), false)",Chrome 121.0.0.0,,,07-02-2024 20:51:19,07-02-2024 20:51:19,0.198s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,07-02-2024 20:51:19,07-02-2024 20:51:19,0.130s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 20:51:19,07-02-2024 20:51:19,0.001s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 20:51:19,07-02-2024 20:51:19,0.002s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 20:51:19,07-02-2024 20:51:19,0.001s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 20:51:19,07-02-2024 20:51:19,0.001s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 20:51:19,07-02-2024 20:51:19,0.001s,PASSED

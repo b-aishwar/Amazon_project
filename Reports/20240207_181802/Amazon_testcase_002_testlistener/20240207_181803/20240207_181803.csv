@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_testcase_002_testlistener,Chrome 121.0.0.0,,,07-02-2024 18:18:05,07-02-2024 18:18:22,17.070s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcase_002,Chrome 121.0.0.0,,,07-02-2024 18:18:05,07-02-2024 18:18:22,16.982s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 18:18:05,07-02-2024 18:18:08,3.079s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,07-02-2024 18:18:08,07-02-2024 18:18:10,1.675s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,07-02-2024 18:18:10,07-02-2024 18:18:10,0.646s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,07-02-2024 18:18:10,07-02-2024 18:18:12,1.583s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_002_OR/span_Hello, sign in""))",Chrome 121.0.0.0,,,07-02-2024 18:18:12,07-02-2024 18:18:13,1.354s,PASSED
+"setText(findTestObject(""Amazon_testcase_002_button_OR/input_Email or mobile phone number_email""), PhoneNo)",Chrome 121.0.0.0,,,07-02-2024 18:18:13,07-02-2024 18:18:15,1.307s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_002_OR/inputcontinue""))",Chrome 121.0.0.0,,,07-02-2024 18:18:15,07-02-2024 18:18:15,0.303s,PASSED
+"setEncryptedText(findTestObject(""Amazon_testcase_002_button_OR/input_Forgot your password_password""), Password)",Chrome 121.0.0.0,,,07-02-2024 18:18:15,07-02-2024 18:18:21,6.563s,PASSED
+"click(findTestObject(""Object Repository/Amazon_testcase_002_OR/inputsignInSubmit""))",Chrome 121.0.0.0,,,07-02-2024 18:18:21,07-02-2024 18:18:22,0.276s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,07-02-2024 18:18:22,07-02-2024 18:18:22,0.104s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 18:18:22,07-02-2024 18:18:22,0.004s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,07-02-2024 18:18:22,07-02-2024 18:18:22,0.003s,PASSED

@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_testcase_003_OR/span_The Da Vinci Code",
+      "brokenLocator": "//div[@id\u003d\u0027search\u0027]/div/div/div/span/div/div[2]/div/div/div/div/span/div/div/div/div[2]/div/div/div/h2/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h2/a/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_testcase_003_OR/span_The Da Vinci Code_position.png"
+    }
+  ]
+}

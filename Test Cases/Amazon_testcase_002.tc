@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Amazon_testcase_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2f98149-0a8d-4611-8d61-df8ea898823e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea76e24c-5bb8-48db-98eb-d485a78d5019</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a508429-e8ec-4acf-a3d3-aa4f3c27f2fa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea76e24c-5bb8-48db-98eb-d485a78d5019</id>
+      <masked>false</masked>
+      <name>PhoneNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4a508429-e8ec-4acf-a3d3-aa4f3c27f2fa</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

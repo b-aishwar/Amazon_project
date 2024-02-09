@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Amazon_testcase_004_GV</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'9553847074'</initValue>
+      <name>PhoneNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'500056'</initValue>
+      <name>PinCode</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

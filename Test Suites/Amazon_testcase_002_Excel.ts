@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Amazon_testcase_002_Excel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6c5fbefd-c08b-43eb-8775-a94dac30e849</testSuiteGuid>
+   <testCaseLink>
+      <guid>7bb88982-439f-41ea-a464-20882c738231</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Amazon_testcase_002</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1ecbc0ac-c613-4056-9cf5-6b462e7694dd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Amazon_002</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>1ecbc0ac-c613-4056-9cf5-6b462e7694dd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PhoneNo</value>
+         <variableId>ea76e24c-5bb8-48db-98eb-d485a78d5019</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1ecbc0ac-c613-4056-9cf5-6b462e7694dd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>4a508429-e8ec-4acf-a3d3-aa4f3c27f2fa</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

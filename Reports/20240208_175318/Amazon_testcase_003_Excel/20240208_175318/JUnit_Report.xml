@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazon_testcase_003_Excel" time="39.787" tests="1" failures="0" errors="0">
+   <testsuite name="Amazon_testcase_003_Excel" tests="1" failures="0" errors="0" time="39.787" skipped="0" timestamp="08-02-2024T17:53:19" hostname="harishbogam - localhost" id="Test Suites/Amazon_testcase_003_Excel">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/harishbogam/git/Amazon_projectAA/Reports/20240208_175318/Amazon_testcase_003_Excel/20240208_175318"/>
+         <property name="logFiles" value="/Users/harishbogam/git/Amazon_projectAA/Reports/20240208_175318/Amazon_testcase_003_Excel/20240208_175318/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="harishbogam - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="f757fc305ff630fabbf45a2cf5b1e8d2"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Amazon_testcase_003" time="39.695" classname="Test Cases/Amazon_testcase_003" status="PASSED">
+         <system-out><![CDATA[08-02-2024T17:53:19 - [TEST_CASE][PASSED] - Test Cases/Amazon_testcase_003: Test Cases/Amazon_testcase_003
+
+08-02-2024T17:53:19 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+08-02-2024T17:53:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-02-2024T17:53:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-02-2024T17:53:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+08-02-2024T17:53:21 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:23 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:23 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+08-02-2024T17:53:23 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+08-02-2024T17:53:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-02-2024T17:53:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-02-2024T17:53:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+08-02-2024T17:53:23 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:25 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:25 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+08-02-2024T17:53:25 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+08-02-2024T17:53:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-02-2024T17:53:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-02-2024T17:53:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+08-02-2024T17:53:26 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:27 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:27 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+08-02-2024T17:53:27 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+08-02-2024T17:53:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-02-2024T17:53:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-02-2024T17:53:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+08-02-2024T17:53:28 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:30 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:30 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+08-02-2024T17:53:30 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+08-02-2024T17:53:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-02-2024T17:53:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-02-2024T17:53:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+08-02-2024T17:53:30 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:31 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+08-02-2024T17:53:31 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+08-02-2024T17:53:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+08-02-2024T17:53:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+08-02-2024T17:53:32 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+08-02-2024T17:53:32 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:33 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+08-02-2024T17:53:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_testcase_003_OR/span_Hello, sign in")): Object: 'Object Repository/Amazon_testcase_003_OR/span_Hello, sign in' is clicked on
+
+08-02-2024T17:53:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_testcase_003_OR/span_Hello, sign in' is clicked on
+
+08-02-2024T17:53:35 - [TEST_STEP][PASSED] - setText(findTestObject("Amazon_testcase_003_button_OR/input_Email or mobile phone number_email"), PhoneNo): Text '9553847074' is set on object 'Object Repository/Amazon_testcase_003_button_OR/input_Email or mobile phone number_email'
+
+08-02-2024T17:53:37 - [MESSAGE][PASSED] - Text '9553847074' is set on object 'Object Repository/Amazon_testcase_003_button_OR/input_Email or mobile phone number_email'
+
+08-02-2024T17:53:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_testcase_003_OR/inputcontinue")): Object: 'Object Repository/Amazon_testcase_003_OR/inputcontinue' is clicked on
+
+08-02-2024T17:53:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_testcase_003_OR/inputcontinue' is clicked on
+
+08-02-2024T17:53:38 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_testcase_003_OR/input_password"), "sWIDqSuYDTb6OdfrXQbw6w=="): Text ****** has been set on object 'Object Repository/Amazon_testcase_003_OR/input_password'
+
+08-02-2024T17:53:39 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_testcase_003_OR/input_password'
+
+08-02-2024T17:53:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_testcase_003_OR/inputsignInSubmit")): Object: 'Object Repository/Amazon_testcase_003_OR/inputsignInSubmit' is clicked on
+
+08-02-2024T17:53:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_testcase_003_OR/inputsignInSubmit' is clicked on
+
+08-02-2024T17:53:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_testcase_003_OR/span_Account  Lists")): Object: 'Object Repository/Amazon_testcase_003_OR/span_Account  Lists' is clicked on
+
+08-02-2024T17:53:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_testcase_003_OR/span_Account  Lists' is clicked on
+
+08-02-2024T17:53:57 - [TEST_STEP][PASSED] - click(findTestObject("Amazon_testcase_003_button_OR/h2_Your Orders")): Object: 'Object Repository/Amazon_testcase_003_button_OR/h2_Your Orders' is clicked on
+
+08-02-2024T17:53:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_testcase_003_button_OR/h2_Your Orders' is clicked on
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - verifyCheckpoint(findCheckpoint("Checkpoints/Amazon_testcase_003_CP"), false): Checkpoint data and Source data are matched
+
+08-02-2024T17:53:59 - [MESSAGE][PASSED] - Checkpoint data and Source data are matched
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-02-2024T17:53:59 - [MESSAGE][PASSED] - Browser is closed
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-02-2024T17:53:59 - [MESSAGE][PASSED] - Browser is closed
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-02-2024T17:53:59 - [MESSAGE][PASSED] - Browser is closed
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-02-2024T17:53:59 - [MESSAGE][PASSED] - Browser is closed
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-02-2024T17:53:59 - [MESSAGE][PASSED] - Browser is closed
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+08-02-2024T17:53:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+08-02-2024T17:53:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[08-02-2024T17:53:19 - [TEST_SUITE][PASSED] - Amazon_testcase_003_Excel: Test Cases/Amazon_testcase_003]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

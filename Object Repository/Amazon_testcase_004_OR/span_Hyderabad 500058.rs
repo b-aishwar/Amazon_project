@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hyderabad 500058</name>
+   <tag></tag>
+   <elementGuidId>7980c414-de23-405e-8ffc-3bea0506e3a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='glow-ingress-line2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#glow-ingress-line2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>08445920-08bd-4b90-b9c5-f28c183d4c0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-line-2 nav-progressive-content</value>
+      <webElementGuid>3ee2f886-7932-4d92-82ff-e9a931036d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>glow-ingress-line2</value>
+      <webElementGuid>8bf41750-2964-43c9-a43b-df793ca79596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                   Hyderabad 500058‌
+                </value>
+      <webElementGuid>5ed8517b-33ae-43bc-96ad-86efcf62f213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;glow-ingress-line2&quot;)</value>
+      <webElementGuid>78f6b9e0-5603-4dc4-87fc-45afa83adbbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='glow-ingress-line2']</value>
+      <webElementGuid>71760573-59af-44e3-9e36-a79c17631f1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='glow-ingress-block']/span[2]</value>
+      <webElementGuid>af2d3e00-53b3-419e-a320-bec0eb5fef54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[2]</value>
+      <webElementGuid>989e8a2b-0bbf-45e7-9cca-bcc7a47d9e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'glow-ingress-line2' and (text() = '
+                   Hyderabad 500058‌
+                ' or . = '
+                   Hyderabad 500058‌
+                ')]</value>
+      <webElementGuid>684e717e-0be4-44f7-a249-4d55b8474568</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

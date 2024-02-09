@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Amazon_testcase_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7865e71f-f24c-4f82-b297-bafaa31c790b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eb80211c-9d22-40bc-a139-2901a8838c38</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'9553847074'</defaultValue>
+      <description></description>
+      <id>eb80211c-9d22-40bc-a139-2901a8838c38</id>
+      <masked>false</masked>
+      <name>PhoneNo</name>
+   </variable>
+</TestCaseEntity>

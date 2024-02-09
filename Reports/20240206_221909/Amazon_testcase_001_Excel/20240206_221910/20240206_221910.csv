@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_testcase_001_Excel,Chrome 121.0.0.0,,,06-02-2024 22:19:11,06-02-2024 22:19:31,19.476s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcase_001,Chrome 121.0.0.0,,,06-02-2024 22:19:12,06-02-2024 22:19:31,19.408s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,06-02-2024 22:19:12,06-02-2024 22:19:13,1.035s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,06-02-2024 22:19:13,06-02-2024 22:19:13,0.841s,PASSED
+"selectOptionByValue(findTestObject(""Amazon_testcase_001_button_OR/select_All Departments""), ""search-alias=stripbooks"", true)",Chrome 121.0.0.0,,,06-02-2024 22:19:13,06-02-2024 22:19:26,12.734s,PASSED
+"setText(findTestObject(""Amazon_testcase_001_button_OR/input_Search""), inputSearch)",Chrome 121.0.0.0,,,06-02-2024 22:19:26,06-02-2024 22:19:28,1.938s,PASSED
+"click(findTestObject(""Amazon_testcase_001_button_OR/input_Search Amazon_nav-search-submit-button""))",Chrome 121.0.0.0,,,06-02-2024 22:19:28,06-02-2024 22:19:31,2.642s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,06-02-2024 22:19:31,06-02-2024 22:19:31,0.123s,PASSED

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazon_testcase_001_testlistener" time="10.061" tests="1" failures="0" errors="0">
+   <testsuite name="Amazon_testcase_001_testlistener" tests="1" failures="0" errors="0" time="10.061" skipped="0" timestamp="06-02-2024T22:54:10" hostname="harishbogam - localhost" id="Test Suites/Amazon_testcase_001_testlistener">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/harishbogam/git/Amazon_projectAA/Reports/20240206_225408/Amazon_testcase_001_testlistener/20240206_225409"/>
+         <property name="logFiles" value="/Users/harishbogam/git/Amazon_projectAA/Reports/20240206_225408/Amazon_testcase_001_testlistener/20240206_225409/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="harishbogam - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="08e189e304597dcf933b93aeac9a96ff"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Amazon_testcase_001" time="9.989" classname="Test Cases/Amazon_testcase_001" status="PASSED">
+         <system-out><![CDATA[06-02-2024T22:54:10 - [TEST_CASE][PASSED] - Test Cases/Amazon_testcase_001: Test Cases/Amazon_testcase_001
+
+06-02-2024T22:54:10 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T22:54:10 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+06-02-2024T22:54:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-02-2024T22:54:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-02-2024T22:54:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+06-02-2024T22:54:12 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T22:54:13 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T22:54:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+06-02-2024T22:54:13 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+06-02-2024T22:54:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-02-2024T22:54:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-02-2024T22:54:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+06-02-2024T22:54:14 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T22:54:16 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+06-02-2024T22:54:16 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Amazon_testcase_001_button_OR/select_All Departments"), "search-alias=stripbooks", true): All options with value 'search-alias=stripbooks' are selected in object 'Object Repository/Amazon_testcase_001_button_OR/select_All Departments'  using regular expression
+
+06-02-2024T22:54:17 - [MESSAGE][PASSED] - All options with value 'search-alias=stripbooks' are selected in object 'Object Repository/Amazon_testcase_001_button_OR/select_All Departments'  using regular expression
+
+06-02-2024T22:54:17 - [TEST_STEP][PASSED] - setText(findTestObject("Amazon_testcase_001_button_OR/input_Search"), inputSearch): Text 'da vinci code' is set on object 'Object Repository/Amazon_testcase_001_button_OR/input_Search'
+
+06-02-2024T22:54:18 - [MESSAGE][PASSED] - Text 'da vinci code' is set on object 'Object Repository/Amazon_testcase_001_button_OR/input_Search'
+
+06-02-2024T22:54:18 - [TEST_STEP][PASSED] - click(findTestObject("Amazon_testcase_001_button_OR/input_Search Amazon_nav-search-submit-button")): Object: 'Object Repository/Amazon_testcase_001_button_OR/input_Search Amazon_nav-search-submit-button' is clicked on
+
+06-02-2024T22:54:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_testcase_001_button_OR/input_Search Amazon_nav-search-submit-button' is clicked on
+
+06-02-2024T22:54:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+06-02-2024T22:54:20 - [MESSAGE][PASSED] - Browser is closed
+
+06-02-2024T22:54:20 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+06-02-2024T22:54:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+06-02-2024T22:54:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[06-02-2024T22:54:10 - [TEST_SUITE][PASSED] - Amazon_testcase_001_testlistener: Test Cases/Amazon_testcase_001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
